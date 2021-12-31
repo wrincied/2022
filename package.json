@@ -1,0 +1,29 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hnz (Hainz)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wrincied/Arsen__F202x/issues"
+  },
+  "homepage": "https://github.com/Wrincied/Arsen__F202x#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-uglify": "^3.0.2",
+    "node-sass-tilde-importer": "^1.0.2",
+    "normalize.css": "^8.0.1"
+  },
+  "dependencies": {
+    "magnific-popup": "^1.1.0"
+  }
+}
